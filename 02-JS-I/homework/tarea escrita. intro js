@@ -1,0 +1,27 @@
+tarea escrita.js
+
+var (variable) es la forma de darle un valor a una palabra que como su nombre lo indica puede cambiar.
+xj si la variable es color , el valor seria cualquier color que le otorguemos a la variable color
+
+strings es un una palabra o conjunto de palabras que siempre van entre comillas. es un tipo de dato. xj una variable
+
+puede tener una string, esto es asi si la palabra/s esta/n entre comillas.
+
+Funciones y argumentos.
+
+una funcion es algo que tiene que hacer el sistema con las variables que ya designamos, para hacer algo
+con ellas o calcularlas o cambiarlas. Luego el codigo de esta funcion siempre va entre corchetes.
+Siempre tenemos que darle un nombre a la funcion, asi es mas facil para identificarlas, y despues le podemos dar un
+argumento que puede ser una variable y tiene que estar entre parentesis y el codigo siempre entre corchetes.
+
+Return. es algo que le pedimos al sistema que nos devuelva, como el resultado de una suma o una resta. Cuando usamos Return
+el sistema deja lo que hace y nos da esta respuesta.
+
+If. caundo usamos if le decimos al terminal que en caso de que algo suceda, nos devuelva una respuesta, y en caso de que
+suceda otra cosa nos devuelva una respuesta diferente.
+
+Booleanos. esto lo usamos cuando solo hay posibilidad de solo 2 respuestas, prendido o apagado, alto o bajo, etc. se usa siempre 
+true o false.
+
+
+
