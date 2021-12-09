@@ -1,0 +1,8 @@
+for es para crear tareas repetitivas una y otra vez hasta que le pongamos una orden que deje de hacerlo , de lo contrario nunca parara
+y eso seria un grave problema.
+
+&& es y , y lo usamos para que se cumplan las dos acciones que estan unidas por &&
+
+|| es o , y se usa para hacer que se cumpla una accion o la otra .cualquiera de las 2.
+
+! es no, se usa para negar por ej !== siginifica que NO es igual.
